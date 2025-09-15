@@ -1,0 +1,7 @@
+f = int(input("Give me the first number : "))
+s = int(input("Give me the first number : "))
+print("Thnak you!")
+print(f"{f} + {s} = {f+s}")
+print(f"{f} - {s} = {f-s}")
+print(f"{f} / {s} = {int(f/s)}")
+print(f"{f} * {s} = {f*s}")
